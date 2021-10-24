@@ -1,26 +1,7 @@
 <h1>InvMove (Fabric) - For 1.18 Snapshots<br>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/invmove-fabric"><img src="http://cf.way2muchnoise.eu/versions/%20For%20MC%20_419550_all(555-0C8E8E-fff-010101).svg" alt="Supported Versions"></a>
-  <a href="https://github.com/PieKing1215/InvMove-Fabric/blob/master/COPYING"><img src="https://img.shields.io/github/license/PieKing1215/InvMove-Fabric?style=flat&color=0C8E8E" alt="License"></a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/invmove-fabric"><img src="http://cf.way2muchnoise.eu/full_419550_downloads(E04E14-555-fff-010101-1C1C1C).svg" alt="CF Download Count"></a>
-  <a href="https://modrinth.com/mod/invmove-fabric"><img src="https://waffle.coffee/modrinth/invmove-fabric/downloads" alt="Modrinth Download Count"></a>
 </h1>
 
 ### Minecraft Fabric mod that adds the ability to walk around while in inventories
-
-<table>
-<tr>
-  <td>Forge</td>
-  <td><a href="https://github.com/PieKing1215/InvMove-Forge">GitHub</a></td>
-  <td><a href="https://www.curseforge.com/minecraft/mc-mods/invmove">CurseForge</a></td>
-  <td><a href="https://modrinth.com/mod/invmove">Modrinth</a></td>
-</tr>
-<tr>
-  <td>Fabric</td>
-  <td><a href="https://github.com/PieKing1215/InvMove-Fabric">GitHub</a></td>
-  <td><a href="https://www.curseforge.com/minecraft/mc-mods/invmove-fabric">CurseForge</a></td>
-  <td><a href="https://modrinth.com/mod/invmove-fabric">Modrinth</a></td>
-</tr>
-</table>
 
 ### NOTE: This Fabric version is still a WIP.<br>It is missing the mod compatibilities that the Forge version has.<br>If you come across any problems, please [report them on the issues page](https://github.com/PieKing1215/InvMove-Fabric/issues).<br>
 <br>
