@@ -7,12 +7,13 @@
   "environment": "client",
   "description": "Lets you move while in inventories.",
   "authors": [
-    "PieKing1215"
+    "PieKing1215",
+    "fedetrifo06"
   ],
   "contact": {
-    "homepage": "https://github.com/PieKing1215/InvMove-Fabric",
-    "sources": "https://github.com/PieKing1215/InvMove-Fabric",
-    "issues": "https://github.com/PieKing1215/InvMove-Fabric/issues"
+    "homepage": "https://github.com/fedetrifo06/InvMove-Fabric-Snapshots",
+    "sources": "https://github.com/fedetrifo06/InvMove-Fabric-Snapshots/tree/1.18",
+    "issues": "https://github.com/fedetrifo06/InvMove-Fabric-Snapshots/issues"
   },
 
   "license": "LGPL v3.0",
