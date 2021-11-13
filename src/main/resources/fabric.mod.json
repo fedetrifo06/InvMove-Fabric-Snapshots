@@ -21,7 +21,7 @@
 
   "entrypoints": {
     "client": [
-      "me.piekings1215.invmove.InvMove"
+      "me.pieking1215.invmove.InvMove"
     ],
     "modmenu": [
       "me.pieking1215.invmove.InvMoveModMenuIntegration"
