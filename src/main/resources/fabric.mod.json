@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "invmove",
+  "name": "InvMove",
+  "version": "${version}",
+
+  "environment": "client",
+  "description": "Lets you move while in inventories.",
+  "authors": [
+    "PieKing1215",
+    "fedetrifo06"
+  ],
+  "contact": {
+    "homepage": "https://github.com/fedetrifo06/InvMove-Fabric-Snapshots",
+    "sources": "https://github.com/fedetrifo06/InvMove-Fabric-Snapshots/tree/1.18",
+    "issues": "https://github.com/fedetrifo06/InvMove-Fabric-Snapshots/issues"
+  },
+
+  "license": "LGPL v3.0",
+  "icon": "assets/invmove/icon.png",
+
+  "entrypoints": {
+    "client": [
+      "me.piekings1215.invmove.InvMove"
+    ],
+    "modmenu": [
+      "me.pieking1215.invmove.InvMoveModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "invmove.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.10.0",
+    "fabric": "*",
+    "minecraft": ">=1.18-beta.1",
+    "cloth-config2": ">=6.0.39"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
