@@ -34,8 +34,7 @@
   "depends": {
     "fabricloader": ">=0.10.0",
     "fabric": "*",
-    "minecraft": ">=1.18-beta.3",
-    "cloth-config2": ">=6.0.39"
+    "minecraft": ">=1.18-beta.3"
   },
   "suggests": {
     "modmenu": "*"
